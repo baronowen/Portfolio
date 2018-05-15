@@ -4,6 +4,9 @@
 }
 
 footer {
+  /* position: fixed; */
   background-color: #f2f2f2;
   padding: 25px;
+  bottom: 0px;
+  width: 100%;
 }
