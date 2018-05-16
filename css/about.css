@@ -1,0 +1,16 @@
+#info {
+  /* border-color: black;
+  border-style: solid; */
+  margin-top: 5px;
+}
+
+#image_me, #aboutme {
+  border-color: black;
+  border-style: dashed;
+  padding: 10px;
+}
+
+#me {
+  width: 200px;
+  height: 200px;
+}
